@@ -198,7 +198,7 @@ const Portfolio = () => {
             <section id="home" className={`h-screen bg-black text-white flex items-center ${isVisible.home ? 'animate-fadeIn' : ''}`}>
                 <div className="container mx-auto px-6">
                     <div className="max-w-3xl">
-                        <h1 className="text-5xl font-bold mb-4 animate-slideInLeft">Ayush Lakhane</h1>
+                        <h1 className="text-5xl font-bold mb-4 animate-slideInLeft">Ayush Lakshane</h1>
                         <p className="text-xl text-blue-400 animate-slideInRight">Full Stack Developer</p>
                         <p className="mt-6 text-gray-300 animate-fadeIn">Be treated like a king</p>
                     </div>
