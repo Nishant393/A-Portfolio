@@ -3,7 +3,6 @@ import { Github, Linkedin, Mail, Phone, Menu, X } from 'lucide-react';
 
 const Portfolio = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
-    const [isVisible, setIsVisible] = useState(false);
 
 
     // Logo Component
